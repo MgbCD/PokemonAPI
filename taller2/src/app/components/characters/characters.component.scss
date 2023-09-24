@@ -1,0 +1,28 @@
+.example-container {
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+  
+    // Estilos para el formulario de filtro
+    mat-form-field {
+      width: 100%;
+      text-align: center;
+    }
+  
+    // Estilos para la tabla
+table {
+      min-width: none;
+      margin: auto;
+      text-align: center;
+  
+      // Estilos para las celdas de encabezado
+th.mat-header-cell {
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+      }
+  
+    
+    }
+  }
